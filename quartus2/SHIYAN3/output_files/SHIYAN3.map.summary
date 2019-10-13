@@ -1,0 +1,14 @@
+Analysis & Synthesis Status : Successful - Fri Oct 11 23:01:56 2019
+Quartus II 64-Bit Version : 13.0.1 Build 232 06/12/2013 SP 1 SJ Full Version
+Revision Name : SHIYAN3
+Top-level Entity Name : SHIYAN3
+Family : Cyclone IV E
+Total logic elements : 173
+    Total combinational functions : 173
+    Dedicated logic registers : 28
+Total registers : 28
+Total pins : 91
+Total virtual pins : 0
+Total memory bits : 0
+Embedded Multiplier 9-bit elements : 0
+Total PLLs : 0

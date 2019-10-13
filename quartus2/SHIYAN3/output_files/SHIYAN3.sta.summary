@@ -1,0 +1,41 @@
+------------------------------------------------------------
+TimeQuest Timing Analyzer Summary
+------------------------------------------------------------
+
+Type  : Slow 1200mV 85C Model Setup 'RST'
+Slack : -5.035
+TNS   : -53.373
+
+Type  : Slow 1200mV 85C Model Hold 'RST'
+Slack : -3.595
+TNS   : -66.540
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'RST'
+Slack : -3.000
+TNS   : -40.009
+
+Type  : Slow 1200mV 0C Model Setup 'RST'
+Slack : -4.544
+TNS   : -47.524
+
+Type  : Slow 1200mV 0C Model Hold 'RST'
+Slack : -3.264
+TNS   : -60.945
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'RST'
+Slack : -3.000
+TNS   : -39.534
+
+Type  : Fast 1200mV 0C Model Setup 'RST'
+Slack : -2.019
+TNS   : -20.548
+
+Type  : Fast 1200mV 0C Model Hold 'RST'
+Slack : -1.959
+TNS   : -35.943
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'RST'
+Slack : -3.000
+TNS   : -41.627
+
+------------------------------------------------------------
